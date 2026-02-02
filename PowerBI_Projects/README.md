@@ -67,11 +67,10 @@ Targeted interventions focused on these segments demonstrate the potential to ge
 ---
 
 ## 📎 Deliverables
-
-* Power BI dashboard (`.pbix`)
-* Dashboard screenshots
-* KPI calculations and DAX logic
-* SQL queries used for analysis
+- [Power BI Dashboard (.pbix)](https://github.com/osaaghimien/powerbi-portfolio/blob/main/PowerBI_Projects/Resources/30%20Days%20Readmission%20Project%20pblix.pbix)
+- [Dashboard Screenshots](https://github.com/osaaghimien/powerbi-portfolio/blob/main/PowerBI_Projects/Resources/Readmission%20Dashboard%20Overview.PNG)
+- KPI Calculations and DAX Logic
+- SQL Queries Used for Analysis
 
 ---
 
