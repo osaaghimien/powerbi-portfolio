@@ -1,31 +1,25 @@
-**Power BI Portfolio — Data Analytics & BI**
+## Hi, I'm Osa 👋
 
-Data Analyst & Business Intelligence Developer focused on turning complex operational and customer data into clear, actionable insights through KPI-driven dashboards and analytical storytelling.
+I'm a Data Analyst & Business Intelligence Developer with experience in SQL, Power BI, and Excel.
+I specialize in turning complex operational and customer data into clear, actionable insights through KPI-driven dashboards.
 
-**Core Skills**
+### 🔍 What I Do
+- Build executive and operational dashboards
+- Design KPIs and performance metrics
+- Model and clean data using SQL and DAX
+- Translate analytics into business-ready insights
 
-**Power BI & Visualization:** Executive dashboards, KPI design, storytelling
-**Data & Modeling:** DAX, star/snowflake schemas, data cleaning, RLS
-**Data & Tools:** SQL/T-SQL, Excel, SSRS, Git/version control
+### 🛠 Tools & Skills
+- Power BI (DAX, Data Modeling, RLS)
+- SQL / T-SQL
+- Excel
+- SSRS
+- Git (Version Control)
 
-**Featured Projects**
-| Project                              | Focus                                        | Tools                | Link                             |
-| ------------------------------------ | -------------------------------------------- | -------------------- | -------------------------------- |
-| Hospital Readmission Analytics       | Reduce readmissions & improve care outcomes  | Power BI, SQL, DAX   | `projects/readmission-dashboard` |
-| Sales & Profit Performance Dashboard | Analyze sales, profitability & growth trends | Power BI, SQL, Excel | `projects/sales-performance`     |
+### 📊 Featured Projects
+- [Hospital Readmission Analytics](projects/readmission-dashboard)
+- [Sales & Profit Performance Dashboard](projects/sales-performance)
 
-
-Each project includes business context, KPIs, data model, insights, and dashboard visuals.
----
-## Contact
-
-- 📍 Location: Atlanta, GA
-- 🔗 [LinkedIn – Osarumwense Aghimien](https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/)
-- 📧 [Email](mailto:osa.aghimien10@gmail.com)
-- 📄 [View My Resume (PDF)](https://github.com/osaaghimien/OsaAnalyticsPortfolio/blob/main/Hospital%20Readmission%20Analytics/Resume/Power%20BI%20Resume.pdf)
-- 🎥 [Communication](https://youtu.be/8YeMhlQNLYE)
-
-
-
-
-
+### 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/osarumwense-aghimien-b0a17b37b/
+- Email: osa.aghimien10@gmail.com
